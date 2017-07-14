@@ -1,0 +1,7 @@
+{
+    {
+        "name": "Sheep Name",
+        "color": "#FFFFFF",
+        "material": "modid:resource";
+    }
+}
